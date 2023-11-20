@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+}
+
+.wrapper {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+
+table.iksweb tr{height: 30px}
+table.iksweb td{vertical-align: top}
+
+td.left_column {width: 250px; font-weight: bold}
+td.right_column {width: 750px}
+
+
+section {
+  margin-top: 50px;
+}
+
+#work h1{
+  margin-top: 50px
+}
+#work work_period{
+  color: Gray;
+}
+#work job_title{
+  font-weight: bold;
+}
+#work workplace{
+  text-transform: uppercase;
+}
+
+#study h1{
+  margin-top: 50px
+}
+#study study_period {
+  color: Gray;
+}
